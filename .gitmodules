@@ -1,0 +1,15 @@
+[submodule "contact-list-app"]
+	path = contact-list-app
+	url = https://github.com/tahaShm/contact-list-app.git
+[submodule "text-compression"]
+	path = text-compression
+	url = https://github.com/tahaShm/text-compression.git
+[submodule "placement-project"]
+	path = placement-project
+	url = https://github.com/tahaShm/placement-project.git
+[submodule "brick-breaker-game"]
+	path = brick-breaker-game
+	url = https://github.com/tahaShm/brick-breaker-game.git
+[submodule "Jeek-Jeek"]
+	path = Jeek-Jeek
+	url = https://github.com/tahaShm/Jeek-Jeek.git
